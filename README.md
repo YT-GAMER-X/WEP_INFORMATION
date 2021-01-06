@@ -5,7 +5,7 @@ THIS TOOL FOR FINDING WEPSIT INFORMATION
 
 1 ==> _____apt update_____
 
-2 ==> apt upgrade
+2 ==> _____apt upgrade
 
 3 ==> pkg install git
 
