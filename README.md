@@ -1,6 +1,9 @@
 # WEP_INFORMATION
 THIS TOOL FOR FINDING WEPSIT INFORMATION
-_____👇installing🤞command 👇_____
+
+
+
+👇installing🤞command 👇
 
 _____1_____ ==> _____apt update_____
 
