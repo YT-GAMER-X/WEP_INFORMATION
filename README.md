@@ -1,6 +1,5 @@
 # WEP_INFORMATION
-______________________________THIS TOOL FOR FINDING WEPSIT INFORMATION _________________________
-
+THIS TOOL FOR FINDING WEPSIT INFORMATION
 _____👇installing🤞command 👇_____
 
 _____1_____ ==> _____apt update_____
@@ -21,7 +20,7 @@ _____8_____ ==> _____cd WEP_INFORMATION_____
 
 _____9_____ ==> _____python2 WEP_INFORMATION.py_____
 
-_____DOWN_____
+_____------DOWN------_____
 
 _____👇HOW TO UZE VEDIO LINK 👇_____
 
