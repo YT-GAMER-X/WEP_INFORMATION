@@ -1,5 +1,5 @@
 # WEP_INFORMATION
-THIS TOOL FOR FINDING WEPSIT INFORMATION 
+______________________________THIS TOOL FOR FINDING WEPSIT INFORMATION _________________________
 
 _____👇installing🤞command 👇_____
 
@@ -23,12 +23,12 @@ _____9_____ ==> _____python2 WEP_INFORMATION.py_____
 
 _____DOWN_____
 
-👇HOW TO UZE VEDIO LINK 👇
+_____👇HOW TO UZE VEDIO LINK 👇_____
 
-"COMEING SOON"
+_____"COMEING SOON"_____
 
 _____FOLLOW ME ON YOU_TUBE_____
-https://www.youtube.com/channel/UCtKNEQ-tZiyJn73saSnNmlw
+_____https://www.youtube.com/channel/UCtKNEQ-tZiyJn73saSnNmlw_____
 
 _____KEEP SUPPORTING bye... bye..._____
 
