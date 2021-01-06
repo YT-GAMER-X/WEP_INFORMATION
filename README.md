@@ -3,7 +3,7 @@ THIS TOOL FOR FINDING WEPSIT INFORMATION
 
 👇installing🤞command 👇
 
-1 ==> apt _____update_____
+1 ==> _____apt update_____
 
 2 ==> apt upgrade
 
