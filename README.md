@@ -1,29 +1,29 @@
 # WEP_INFORMATION
 THIS TOOL FOR FINDING WEPSIT INFORMATION 
 
-👇installing🤞command 👇
+_____👇installing🤞command 👇_____
 
-1 ==> _____apt update_____
+_____1_____ ==> _____apt update_____
 
-2 ==> _____apt upgrade_____
+_____2_____ ==> _____apt upgrade_____
 
-3 ==> _____pkg install git_____
+_____3_____ ==> _____pkg install git_____
 
-4 ==> _____pkg install python_____
+_____4_____ ==> _____pkg install python_____
 
-5 ==> _____pkg install python2_____
+_____5_____ ==> _____pkg install python2_____
 
-6 ==> _____git clone https://github.com/YT-GAMER-X/WEP_INFORMATION_____
+_____6_____ ==> _____git clone https://github.com/YT-GAMER-X/WEP_INFORMATION_____
 
-7 ==> _____ls_____
+_____7_____ ==> _____ls_____
 
-8 ==> _____cd WEP_INFORMATION_____
+_____8_____ ==> _____cd WEP_INFORMATION_____
 
-9 ==> _____python2 WEP_INFORMATION.py_____
+_____9_____ ==> _____python2 WEP_INFORMATION.py_____
 
 _____DOWN_____
 
-_____👇HOW TO UZE VEDIO LINK 👇_____
+👇HOW TO UZE VEDIO LINK 👇
 
 "COMEING SOON"
 
